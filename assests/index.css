@@ -2,10 +2,14 @@ body{
     background-color: brown;
     background-image: url(dragonhead.png);
     background-repeat: repeat-x;
-    background-position-y:320px ;
+    background-position-y:220px ;
     background-position-x:center ;
     height:2000px;
 }
 #space{
     height: 600px;
+}
+.alert{
+    width:100%;
+    text-align:left;
 }
