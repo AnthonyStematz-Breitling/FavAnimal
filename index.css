@@ -1,0 +1,8 @@
+body{
+    background-color: brown;
+    background-image: url(dragonhead.png);
+    background-repeat: repeat-x;
+    background-position-y:320px ;
+    background-position-x:center ;
+    height:2000px;
+}
